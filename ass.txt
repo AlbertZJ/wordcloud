@@ -1,0 +1,43 @@
+一、专业英语学习心得与规划
+1.单词记忆的技巧
+根据词根、词缀记忆，按照音标记忆，联系记忆，同义词，反义词记忆，同类比较记忆，构词记忆等等。
+2.阅读理解的技巧
+首先对原文材料迅速浏览，掌握全文的主旨大意。因为阅读理解题一般没有标题，所以，速读全文，抓住中心主旨很有必要，在速读的过程中，应尽可能多地捕获信息材料。 其次，细读题材，各个击破。掌握全文的大意之后，细细阅读每篇材料后的问题，弄清每题要求后，带着问题，再回到原文中去寻找、捕获有关信息。要善于抓住每段的主题句，阅读时，要有较强的针对性。对于捕获到的信息，要做认真分析，仔细推敲，理解透彻，只有这样，针对题目要求，才能做到稳、准。
+3.翻译的技巧
+1.理解为首要原则
+拿到翻译题之后，先确定原句的意思。如果句子较长，可以先找主、谓、宾、定、状、补，分析清楚句子结构，然后再理解。
+增词、减词
+译文的增词、减词都是为了更确切、更忠实地表达原文的含义和精神。
+词类转换
+词类变形和转换，是英语语言的一个很重要的特点，特别是名词、动词、形容词这三种最主要的词类，大部分可以直接转换使用，或者稍加变化(前缀、后缀等) 即可转换为另一种词类。
+语态转换
+汉译英时，人们常常会简单地认为只要按照原句的语态处理就行了。事实上，在英语中被动语态的使用频率要远远高于汉语。所以我们在汉译英时需要灵活运用语态之间的转换。
+4.写作的技巧
+一、代入法
+　　这是进行英语写作时最常用的方法。在掌握一定的词汇和短语之后，结合一定的语法知识，按照句子的结构特点，直接用英语代人相应的句式即可。如：
+二、还原法
+　　即把疑问句、强调句、倒装句等还原成基本结构。这是避免写错句子的一种有效的办法。 
+三、分解法
+　　把一个句子分成两个或两个以上的句子。这样既能把意思表达得更明了，又能减少写错句子的几率。 
+四、合并法
+　　就是把两个或两个以上的简单句用一个复合句或较复杂的简单句表达出来。这种方法最能体现学生的英语表达能力，同时也最能提高文章的可读性。 　　五、删减法
+　　就是在写英语句子时，把相应汉语句子里的某些词、短语或重复的成分删掉或省略。　　
+六、移位法
+　　由于英语和汉语在表达习惯上存在差异，根据表达的需要，某些成分需要前置或后移。
+七、分析法
+　　指根据要表示的汉语意思，通过进行语法分析和句式判断，然后写出准确地道的英语句子。　　
+八、意译法
+　　有的同学在写句子时，一遇见生词或不熟悉的表达，就以为是“山穷水尽”了。其实，此时我们可以设法绕开难点，在保持原意的基础上，用不同的表达方式写出来。
+5.未来专业英语学习的规划
+打算以阅读计算机相关英文文档为入手点，增强英语的阅读理解能力，适当记忆其中的关键单词和短语，当然平时有时间还是会以阅读英语的一些非计算机文章来增强自己对英语的兴趣，最后就是记忆编程语言的相关词汇，便于背着编写代码来提高自己的专业英语水平。
+二、课外阅读内容
+ABSTRACT: In recent years, hybrid chaotic image encryption schemes combined with the DNA encryption technology or other technologies have become a research focus of many researchers. However, some researchers neglect security analyses of proposed schemes under the chosen plaintext attack, therefore leaving security vulnerabilities. Considering this situation, we carefully investigate a recently reported hyper-chaotic image encryption scheme using the DNA encryption technology. In this paper, we first point out some issues identified in the reported scheme and make some necessary improvements, and then cryptanalyze it and propose a chosen plaintext attack algorithm. With the proposed attack algorithm, theoretical analyses and test results show that it can completely recover plain images without knowing any secure key related information. Finally, some suggestions for improving the security and practicability of the reported hyper-chaotic image encryption scheme are presented. Keywords: cryptanalysis, chaotic image encryption, chosen plaintext attack, DNA encoding. 
+ 
+摘要：近年来，混合混沌图像加密方案与DNA加密技术等技术相结合，已成为众多研究者的研究热点。然而，一些区域研究人员忽略了所选择的明文攻击下所提出的方案的安全性分析，从而留下了安全漏洞。考虑到这种情况，我们仔细调查了最近的一次利用DNA加密技术实现的超混沌图像加密方案。本文首先指出了报告方案中存在的一些问题，并进行了必要的改进，然后对其进行密码分析，提出了一种选择明文攻击的算法。理论分析和测试结果表明，该攻击算法能够完全恢复原始图像。知道任何与安全密钥相关的信息。最后，对提高所报道的超混沌图像加密方案的安全性和实用性提出了一些建议。关键词：密码分析，混沌图像加密，选择明文攻击，DNA编码。
+
+in 1998, which laid an important foundation for image encryption based on chaotic system [5, 6]. Since then, researchers have been committed to improving the security and e?ciency of chaotic image encryption, and constantly put forward many new chaotic image encryption schemes. One can enumerate some latest and important developments. For instance, Chai proposed a fast chaos-based image encryption scheme by introducing a di?usion method within the block image (DMWBI) and a di?usion method between two block images (DMBTBI) in the di?usion process [7]; Wang presented an image encryption scheme by using the piecewise linear chaotic map to generate the key image and by using DNA rules to encrypt the plain image [8]; Chai utilized a bit-level Brownian motion to disturb 8 bit planes of the plain image, and then used repeatable row and column di?usion processes to obtain the cipher image [9]; Guo used a 2D hyper-chaotic system to scramble the plain image globally and then took advantage of coupled map lattices spatiotemporal chaotic system to obtain the cipher image [10]. The above researches on chaotic image encryption are based on Fridrich’s permutation-di?usion structure and its improved form. Beyond that, some other techniques for image encryption are reported, such as matrix transformations [11], SCAN languages [12], optical encryption [13], cellular automata [14], quantum theory [15], vector quantization [16], and compressed sensing [17]. 
+1998年，这为基于混沌系统的图像加密奠定了重要的基础[5，6]。从那时起，研究人员一直致力于提高混沌图像enc的安全性和e?的科学性。并不断提出许多新的混沌图像加密方案。我们可以列举一些最新和重要的事态发展。例如，柴提出了一种快速的基于混沌的图像加密方法。在di?图像处理过程中，通过在块图像中引入一种dimbtbi方法和一种二块图像间的dimbtbi方法[7]；王建民提出了一种图像加密方案b。y使用分段线性混沌映射生成密钥图像，并利用dna规则对普通图像进行加密[8]柴利用位级布朗运动来干扰平原的8位平面。图像，然后使用可重复的行和列二?处理获得密码图像[9]；郭使用一个二维超混沌系统对平面图像进行全局置乱，然后利用协同技术。放大映射格时空混沌系统获得密码图像[10]。以上混沌图像加密的研究是基于Fridrich的置换-di?目标结构及其改进。埃德表格。除此之外，还报道了其他一些图像加密技术，如矩阵变换[11]，扫描语言[12]，光学加密[13]，元胞自动机[14]，量子理论。[15]、矢量量化[16]和压缩传感[17]。
+
+混沌图像加密的看法
+我觉得混沌图像加密是一种非常重要的算法应用，在当代大数据的浪潮下，每天都能产生数以百万计的图像，如何让图像保密，是一种非常重要的思考方面。最近看了很多看混沌图像加密的资料，包括老师给的资料，也上网查找了一些相关文档，我有一些收获。我感觉一张灰度图像只有256种情况，用matlab做操作的时候，都不可以对像素值直接做操作，只能是把像素值转换成double类型之后才可以，做运算啊什么的。我感觉这样不是很好，因为像素值在转换double的时候会产生数值精度的丢失，这样在有些微妙的情况下，会对文件就产生了影响。虽然是不影响使用，但是在安全方面多少也算是一个隐患。如果直接把像素值转换成二进制的话，这样的情况就很可以避免了。
+ 
